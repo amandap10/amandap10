@@ -21,7 +21,4 @@
       <a href = "mailto:amanda_passos@outlook.com"><img src="https://img.shields.io/badge/-outlook-%23333?style=for-the-badge&logo=outlook&logoColor=white" target="_blank"></a>
       <a href="https://www.linkedin.com/in/amanda-passos-21a968184/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    
-   
-    ![Snake animation](https://github.com/amandap10/amandap10/blob/output/github-contribution-grid-snake.svg)
-
    </div>
